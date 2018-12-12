@@ -1,4 +1,4 @@
-// Queues
+// Queues - first in first out
 
 function createQueue() {
   const queue = [];
